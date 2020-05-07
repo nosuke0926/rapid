@@ -37,11 +37,11 @@ features:
 
   - title: "Todoアプリ・メモ両方使える"
     description: "詳細も記載できるので、メモとしても使用可能"
-    fontawesome_icon_name: mobile-alt
+    fontawesome_icon_name: sticky-note
 
   - title: "フォームとリストが一画面に"
     description: "入力画面とリスト一覧を同時に確認可能。画面の比率を変更できます。"
-    fontawesome_icon_name: bell
+    fontawesome_icon_name: mobile-alt
 
 # Theme Settings
 topbar_color: "#000000"
