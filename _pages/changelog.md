@@ -6,7 +6,7 @@ include_in_header: true
 
 # アプリ更新履歴
 
-<!-- <br>
+<br>
 
 ### `Initial Release`
 
@@ -14,7 +14,7 @@ include_in_header: true
 
 サブスクリプションをシンプルに管理するアプリ「さぶすく」iOS 版をリリースしました。
 
-<br> -->
+<br>
 
 <!-- ## Version 1.0.3
 
