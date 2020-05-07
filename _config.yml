@@ -1,94 +1,77 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1506451600                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 1511398926 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.nosuke.subscriptionManagement                                          # Enter Google Play Store URL.
-# presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+# playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.subscriptionManagement
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 無料                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : サブスクリプションをかしこく管理
+# Enter Google Play Store URL.
+# presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+# Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price: 無料 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description: アプリを開いて2秒で記録！！爆速ToDoメモアプリ
 
-
+enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
-your_name                                 : nosuke                               
-your_link                                 : https://twitter.com/guitar_blues_                   
-your_city                                 : Tokyo                                
-email_address                             : nagase0926@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : guitar_blues_
-github_username                           : nosuke0926
-youtube_username                          :
-
-
+your_name: nosuke
+your_link: https://twitter.com/guitar_blues_
+your_city: Tokyo
+email_address: nagase0926@gmail.com
+facebook_username:
+instagram_username:
+twitter_username: guitar_blues_
+github_username: nosuke0926
+youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+features:
+  - title: "素早く記録"
+    description: "起動と同時にキーボードが立ち上がり、さっとメモができます。"
+    fontawesome_icon_name: tasks
 
-  - title                                 : "圧倒的にシンプル"
-    description                           : "無駄な機能は一切ナシ。サブスクリプションを管理することに特化したアプリです。"
-    fontawesome_icon_name                 : tasks
-    
-  - title                                 : "かんたん登録"
-    description                           : "直感的な操作でサブスクリプションを登録可能。"
-    fontawesome_icon_name                 : mobile-alt
-    
-  - title                                 : "プッシュ通知で解約忘れを防止"
-    description                           : "次回支払日を入力すると、二日前にプッシュ通知でお知らせします。"
-    fontawesome_icon_name                 : bell
+  - title: "Todoアプリ・メモ両方使える"
+    description: "詳細も記載できるので、メモとしても使用可能"
+    fontawesome_icon_name: mobile-alt
 
-
+  - title: "フォームとリストが一画面に"
+    description: "入力画面とリスト一覧を同時に確認可能。画面の比率を変更できます。"
+    fontawesome_icon_name: bell
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_color: "#000000"
+topbar_transparency: 0.1
+topbar_title_color: "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
+cover_overlay_color: "#363b3d"
+cover_overlay_transparency: 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color: black # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color: "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color: "#1d63ea"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color: "#ffffff"
+app_price_color: "#ffffff"
+app_description_color: "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color: "#000000"
+feature_text_color: "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color: "#1d63ea"
+feature_icons_background_color: "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color: "#666666"
+social_icons_background_color: "#e6e6e6"
 
-footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
-
-
+footer_text_color: "#666666"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
