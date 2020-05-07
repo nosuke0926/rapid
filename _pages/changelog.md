@@ -12,7 +12,7 @@ include_in_header: true
 
 # **Version 1.0**
 
-サブスクリプションをシンプルに管理するアプリ「さぶすく」iOS 版をリリースしました。
+「爆速ToDoメモ」 iOS版をリリースしました。
 
 <br>
 
