@@ -5,7 +5,7 @@ page_title: # Automatically populates with app name if not set and if iOS app ID
 ios_app_id: 1511398926 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-# playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.subscriptionManagement
+playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
 
 # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
