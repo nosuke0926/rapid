@@ -4,7 +4,7 @@ page_title: # Automatically populates with app name if not set and if iOS app ID
 # App Info
 ios_app_id: 1511398926 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link: https://apps.apple.com/jp/app/id1511398926 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
 
 # Enter Google Play Store URL.
